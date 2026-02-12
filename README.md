@@ -1,5 +1,5 @@
 # 💫 About Me:
-I mainly work with Python, using it for automation, web applications, data analysis, and APIs.<br>I have experience working in Linux environments, writing Bash scripts, and building practical projects while learning DevOps-related tools.<br>Always open to sharing knowledge and learning from others.
+I mainly work with Python, using it for automation, web applications and API, have experience working in Linux environments, writing Bash scripts, and building practical projects while learning DevOps-related tools.<br>Always open to sharing knowledge and learning from others.
 
 
 # 💻 Tech Stack:
