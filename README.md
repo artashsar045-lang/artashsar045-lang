@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an DevOps Engineer with 1 year experience in Linux, Docker, Kubernetes, cloud infrastructure, 
+I am an DevOps Engineer with experience in Linux, Docker, Kubernetes, cloud infrastructure, 
 and full-stack web development. I have hands-on experience deploying and maintaining production 
 applications on DigitalOcean using Docker, Nginx, PostgreSQL, and Ubuntu.
 
